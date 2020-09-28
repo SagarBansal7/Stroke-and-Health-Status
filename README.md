@@ -11,5 +11,5 @@ Here's some information about all the files included in this repository:
 1) <a href="https://github.com/SagarBansal7/Stroke-and-Health-Status/blob/master/Dataset%20-%20Stroke%20and%20Health%20Status.csv">Dataset</a> - Data used for this analysis that was retrieved from Kaggle.com. The original dataset was published by Mckinsey & Company for one of their case studies. 
 2) <a href="https://github.com/SagarBansal7/Stroke-and-Health-Status/blob/master/Source%20Code%20-%20Stroke%20and%20Health%20Status.sas">Source Code</a> - Solution code that was written in SAS programming language.
 3) <a href="https://github.com/SagarBansal7/Stroke-and-Health-Status/blob/master/Project%20Report%20-%20Stroke%20and%20Health%20Status.pdf">Project Report</a> - In-depth analysis details. 
-4) <a href="https://github.com/SagarBansal7/Stroke-and-Health-Status/blob/master/Presentation%20-%20Stroke%20and%20Health%20Status.pdf">Presentation</a> - Final presentation summarizing the analysis.
+4) <a href="https://github.com/SagarBansal7/Stroke-and-Health-Status/blob/master/Presentation%20-%20Stroke%20and%20Health%20Status.pdf">Presentation</a> - Final presentation summarizing the analysis for non-technical audience.
     
